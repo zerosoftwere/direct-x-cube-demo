@@ -5,6 +5,6 @@
 Simple Vertex Colored cube in directx using HLSL
 programable pipline
 
-#prerequisite
+## prerequisite
 
 - DirectX SDK
